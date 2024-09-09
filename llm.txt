@@ -1,0 +1,8 @@
+* O que é um LLM?
+* Um LLM é uma rede neural baseada na arquitetura Transformer.
+* Ele tenta prever qual será a próxima palavra após uma sequência de entradas (inputs) observadas.
+* Os LLMs utilizam técnicas como "word embedding" e "positional encoding".
+* Word embedding: representa palavras como vetores em um espaço de alta dimensão, buscando identificar semelhanças entre palavras com significados relacionados.
+* Positional encoding: codifica a posição de cada palavra em uma sequência, permitindo que o modelo entenda a ordem das palavras em uma frase.
+* LLM > GPT > ChatGPT
+* O LLM (Large Language Model) é um tipo de modelo de rede neural que serve como base para o GPT (Generative Pre-trained Transformer). O GPT é uma implementação específica dessa tecnologia. O ChatGPT, por sua vez, é uma aplicação do GPT focada em gerar conversas naturais. Portanto, o LLM é a tecnologia subjacente, o GPT é uma instância dessa tecnologia, e o ChatGPT é uma aplicação do GPT voltada para interações conversacionais.

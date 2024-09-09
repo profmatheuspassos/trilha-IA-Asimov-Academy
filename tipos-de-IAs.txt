@@ -1,0 +1,7 @@
+* Inteligência Artificial Geral ou Forte: tentativa de criar máquinas capazes de resolver qualquer tipo de problema, ou seja, uma IA genérica.
+* Nunca foi desenvolvida ou utilizada na prática.
+* Os estudos sobre IA Forte diminuíram por volta de 1970.
+* A partir do final da década de 1990, houve uma mudança de foco para a Inteligência Artificial Específica ou Fraca.
+* Inteligência Artificial Específica ou Fraca: busca resolver apenas problemas específicos.
+* Exemplos de IA Fraca: detecção de spam, tradução automática, sistemas de recomendação de produtos.
+* Divisão de algoritmos: em "redes neurais" e "não redes neurais".

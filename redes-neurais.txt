@@ -1,0 +1,17 @@
+* Redes neurais: o "coração" por trás dos algoritmos atuais.
+* Aplicações: tradução automática, legendas no YouTube, reconhecimento facial no iPhone.
+* Origem: o "Perceptron" (década de 1950).
+* O Perceptron serve para classificação binária: "é" ou "não é".
+* Principal função: função Heaviside - retorna 1 ("é") ou 0 ("não é").
+* Quanto maior a complexidade adicionada a um modelo, maior sua capacidade de resolver problemas específicos.
+* Treinamento de IA: processo de ajustar os parâmetros para identificar corretamente "é" ou "não é".
+* Equação básica: (x1 x w1) + (x2 x w2) + ... + (xN x wN) + b.
+* Parâmetros: "w" (pesos) e "b" (viés).
+* A rede neural mais básica é chamada de fully connected layer (camada totalmente conectada).
+* Uma rede com 8 mil parâmetros é considerada minúscula: o ChatGPT tem mais de 185 bilhões de parâmetros.
+* Redes Neurais Convolucionais (CNNs): ao invés de aumentar o tamanho da rede, altera-se sua arquitetura para resolver problemas de maneira mais eficiente.
+* Exemplo da zebra: a rede convolucional analisa partes específicas do corpo da zebra; ao final, os resultados são combinados para afirmar que a imagem é de uma zebra.
+* Redes Neurais Recorrentes (RNNs): são projetadas para analisar dados sequenciais, como textos, fala e tradução.
+* As Redes Neurais Recorrentes estão sendo substituídas pelos Transformers (exemplo: ChatGPT) – veja o artigo "Attention is All You Need".
+* Reinforcement Learning (Aprendizado por Reforço): outra abordagem para treinar redes neurais (exemplo do Atari – a rede aprende analisando o vídeo do jogo).
+* Síntese: O Perceptron é a base das redes neurais. As redes totalmente conectadas são uma evolução do Perceptron, mas percebeu-se que arquiteturas diferentes são necessárias para resolver certos problemas de forma mais eficiente. Foram desenvolvidas redes neurais específicas para cada tipo de problema, e poder computacional é essencial para treinar esses algoritmos.
