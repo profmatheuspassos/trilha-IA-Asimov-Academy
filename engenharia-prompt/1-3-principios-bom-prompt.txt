@@ -1,0 +1,13 @@
+ANOTAÇÕES "CORRIGIDAS" PELO CHATGPT
+* Um prompt é a entrada de texto ou instruções fornecida a um modelo de LLM para gerar uma resposta ou realizar uma tarefa específica.
+* Em analogia, o prompt é a porta de entrada para o LLM - mas o usuário precisa saber abrir a porta.
+* Princípios básicos para escrever um bom prompt: 1) Escrever instruções claras, específicas e completas; 2) Fornecer contexto suficiente para que o modelo possa gerar uma resposta adequada.
+* Limitações de um LLM: a) Alucinações (respostas fabricadas ou incorretas que parecem verdadeiras ou convincentes); b) Vieses (os modelos são treinados com dados da internet, que refletem vieses humanos e culturais).
+* O processo de criar e refinar um prompt pode ser iterativo: ideia, implementação, resultado experimental, análise de erros. Esse ciclo contínuo funciona de maneira semelhante ao teste de hipóteses para formular novas hipóteses.
+
+ANOTAÇÕES ORIGINAIS
+* Um prompt é o modo de entrada de dados em um modelo de LLM.
+* Em analogia, o prompt é a porta de entrada para o LLM - mas o usuário precisa saber abrir a porta.
+* Princípios básicos de um prompt: 1) Escrever instruções claras e específicas; 2) Dar ao modelo tempo para pensar.
+* Limitações de um LLM: a) "Alucinações" (respostas que parecem bastante assertivas, mas que não são verdadeiras); b) Vieses (os modelos são treinados com dados da internet, que "tem de tudo").
+* Um prompt é um processo iterativo: ideia, implementação, resultado experimental, análise de erros. Estas etapas funcionam em um processo contínuo: teste de hipóteses para formular novas hipóteses.

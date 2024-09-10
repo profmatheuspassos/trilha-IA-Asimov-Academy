@@ -1,0 +1,19 @@
+ANOTAÇÕES "CORRIGIDAS" PELO CHATGPT
+* Um LLM é a sigla para Large Language Model, ou "modelo de linguagem de grande escala".
+* Um modelo de linguagem é utilizado para processar e gerar textos. O usuário fornece uma entrada em forma de texto e o modelo gera uma saída, que pode ser outro texto ou diferentes formas de interação textual, como respostas a perguntas, resumos e traduções.
+* Os modelos de linguagem lidam predominantemente com dados textuais, que formam uma parte significativa dos dados disponíveis na internet. Eles também podem ser treinados para lidar com outros tipos de dados que podem ser transformados em texto, como código ou descrições de imagens.
+* Um LLM tem bilhões de parâmetros em suas redes neurais.
+* O treinamento de um modelo de linguagem precisa de grandes volumes de dados e exige uma capacidade computacional muito elevada.
+* Por trabalhar com base em padrões probabilísticos e contextuais, o GPT considera o que vem antes (os tokens) e usa esse contexto para prever, com base em probabilidades, qual será a próxima palavra ou sequência de palavras mais provável.
+* Principais modelos de linguagem disponíveis: GPT-4 (OpenAI), Claude 2 (Anthropic), Gemini/PaLM (Google DeepMind), Llama (Meta).
+* Cada modelo tem um limite de tokens, que representa a quantidade de palavras ou caracteres que ele pode processar de uma vez. Esse limite varia de acordo com o modelo; por exemplo, o GPT-4 pode lidar com até 8.000 ou 32.000 tokens, dependendo da versão.
+
+ANOTAÇÕES ORIGINAIS
+* Um LLM é um "modelo de linguagem grande".
+* Um modelo de linguagem serve para processar textos: o usuário insere um texto e o resultado é outro texto.
+* Os modelos de linguagem conseguem tratar a maior parte dos dados disponíveis na internet, que são os textos.
+* Um LLM tem bilhões de parâmetros em suas redes neurais.
+* O treinamento de um modelo de linguagem precisa de muita informação e capacidade computacional muito elevada.
+* Por trabalhar de maneira estatística, o GPT lê o que vem antes e vai analisando a estrutura estatística para indicar qual será a próxima palavra.
+* Principais modelos de linguagem disponíveis: GPT-4 (OpenAI), Claude 3.5 (Anthropic), Gemini (Google), Llama (Meta).
+* Todo modelo consegue acessar até "X" tokens - o número vai variar conforme o modelo específico.

@@ -1,0 +1,6 @@
+* Os prompts devem ser claros e específicos.
+* Clareza: adicionar contexto para que o modelo compreenda quem o usuário é, de maneira que a resposta seja direcionada às necessidades específicas do usuário. Quanto mais genérica a pergunta, mais genérica é a resposta.
+* Exemplo: "Desenvolva um plano para uma aula sobre relatividade." vs. "Eu sou um professor de Física de 8ª série preparando uma aula sobre relatividade. Desenvolva um plano de aula."
+* Especificidade: sem especificidade, o modelo dá respostas genéricas. O objetivo é o de direcionar o modelo para o local correto, limitando seu campo de atuação para evitar respostas genéricas.
+* Exemplo: "Eu sou um professor de Física de 8ª série preparando uma aula sobre relatividade. Desenvolva um plano de aula para uma turma de 20 alunos que durará 2 horas. Na sala teremos projetor, quadro branco e computadores para utilização."
+* Problemas comuns quando o usuário tenta ser muito claro e específico: a) Sobrecarga (dar informações demais para o modelo, ou dar informações que não são relevantes para o objetivo); b) Ambiguidade (deixar dúvidas ou "espaços em branco" na pergunta (por exemplo, "posso ter entre 5 e 20 alunos na aula"))); c) Complexidade (não utilizar termos técnicos pouco utilizadas, jargões ou expressões idiomáticas, pois estes podem não ter aparecido no treinamento do modelo).

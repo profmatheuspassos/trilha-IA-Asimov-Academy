@@ -1,0 +1,6 @@
+* Em geral, um bom prompt possui quatro elementos: contexto, instrução, dados de entrada e indicador de saída.
+* Contexto: indicar quem o usuário é, o que ele faz e como ele pensa para que o modelo se situe, gerando respostas estáveis e adequadas ao que se espera do modelo. "Eu sou um acessor financeiro de pessoas jovens, com até 30 anos de idade e com baixo poder aquisitivo. Ajudo elas a desenvolverem uma educação financeira e formo planos adequados para longo prazo, para clientes que querem começar cedo a investir pensando em suas aposentadorias."
+* Instrução: é o que o usuário quer que o modelo faça. "Desenvolva um plano de investimento eficaz, definindo tipos de investimentos, proporções entre investimentos e diversificação para o perfil do cliente abaixo."
+* Dados de entrada: o que o usuário quer efetivamente analisar. "Um homem de 25 anos, com baixa propensão a risco e consegue aportar mil reais por mês em novos investimentos. Hoje ele já possui 50 mil reais investidos em ações."
+* Indicador de saída: o que o usuário espera como resultado, ou até mesmo uma instrução direta como "Resposta:" ou "Complete este texto:". Seguindo o exemplo anterior: "Plano de investimento:".
+* Materiais complementares: https://www.promptingguide.ai/pt/introduction/tips, https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
