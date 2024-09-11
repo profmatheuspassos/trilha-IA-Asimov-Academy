@@ -1,0 +1,6 @@
+* A ideia do "chaining" é a de separar um prompt grande, com várias instruções, em prompts menores, com instruções específicas.
+* Em vez de pedir para o modelo analisar um texto, traduzir para inglês e selecionar os pontos principais tudo ao mesmo tempo, cada uma destas ações pode ser passada em um prompt específico.
+* Vantagens: a) Melhora a resposta do modelo; b) Permite ao usuário analisar o que o modelo está fazendo bem e o que não está fazendo tão bem, analisando o resultado da tarefa - permite refinar o prompt com o tempo.
+* Usando o exemplo da aula anterior, seria possível pedir primeiro para o modelo apresentar a solução correta para o cálculo e só depois perguntar a ele se a resposta do aluno estava correta ou não.
+* Prompt 1 --> Modelo --> (Resposta 1 --> Pergunta 2) --> Modelo --> Resposta 2
+* Outra técnica: "Cadeia de Roteamento" (tradução livre). A depender da pergunta do usuário, o resultado é direcionado a uma área específica - como é o caso de chatbots no atendimento ao consumidor (o chatbot vai direcionar a setores diferentes dependendo da pergunta do usuário). Exemplo: O usuário passa uma tarefa de categorização com few-shots e, com base nesse resultado, se passa para outro prompt com base na resposta do prompt anterior.

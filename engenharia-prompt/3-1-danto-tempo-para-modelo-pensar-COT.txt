@@ -1,0 +1,6 @@
+* Quando se exige um pouco mais de "raciocínio", especialmente com operações matemáticas, é necessário "dar mais tempo" para o modelo.
+* Para dar este "tempo" ao modelo, basicamente o usuário deve solicitar ao mesmo que "pense passo a passo" ao executar o prompt. Esta frase deve literalmente aparecer ao final do prompt.
+* Isso é fundamental para que o modelo possa "pensar" antes de criar o raciocínio - ou o resultado - final.
+* Outra forma é utilizar o COT - Chain Of Thought. Ao invés de dizer "pense passo a passo", o usuário indica a forma que o modelo tem de pensar, com passos explícitos. Exemplo: "Elabore primeiro a sua própria solução para o problema. Depois, compare sua solução à solução do aluno e verifique se ela está correta." Aqui o usuário diz ao modelo o que ele deve fazer de maneira sequencial.
+* Se o usuário souber quais passos devem ser seguidos para se chegar ao resultado final, deve-se utilizar o COT. Caso contrário é válido utilizar a frase "pense passo a passo".
+* Ver exemplo na apostila - pág. 28.
