@@ -1,0 +1,6 @@
+* Uma API, sigla para Interface de Programação de Aplicações (em inglês, “Application Programming Interface”), consiste em um conjunto de regras e definições projetadas para permitir a comunicação entre softwares distintos. Ela atua como um intermediário, estabelecendo como os desenvolvedores podem solicitar informações ou dados de um programa, sem a necessidade de compreender os detalhes internos de como esses serviços são implementados.
+* Uma API é uma espécie de "garçom", se fizermos a analogia com um restaurante: o usuário (consumidor) faz o pedido à cozinha (fornecedor) por meio do garçom (a API).
+* A API exige um contato por meio de programação, e o ChatGPT exige um contato "manual".
+* O Python é a principal programação para utilizar a API da OpenAI.
+* Ver https://platform.openai.com/docs/overview
+* Ver https://cookbook.openai.com

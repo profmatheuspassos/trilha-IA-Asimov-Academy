@@ -1,0 +1,5 @@
+* Uma das principais tarefas nas quais os modelos de linguagem são excelentes é no resumo e extração de texto.
+* Exemplo: "Sua tarefa é gerar um breve resumo de uma análise de produto de um site de ecommerce. Resuma a review abaixo, delimtada por ####, em até 50 palavras." Em seguida a review viria.
+* "Sua tarefa é gerar um breve resumo de uma análise de produto de um site de ecommerce. Você quer dar um feedback para o setor de logística, portanto, foque nos aspectos de tempo e qualidade de entrega. Resuma a review abaixo, delimtada por ####, em até 15 palavras." Em seguida a review viria.
+* Outro aspecto relevante que as LLMs fazem muito bem é a extração de dados de um texto.
+* Exemplo: "Sua tarefa é extrair de reviews de produtos as informações relevantes ao departamento de logística e entregas de um ecommerce. Da review abaixo, delimitada por ####, extraia apenas as informações referentes ao envio e entrega. Limite a 30 palavras." Em seguida a review viria.

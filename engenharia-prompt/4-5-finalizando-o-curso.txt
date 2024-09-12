@@ -1,0 +1,4 @@
+* Referências relevantes:
+* Hugging Face: https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
+* Prompt engineering guide: https://promptingguide.ai/
+* Guia de Engenharia de Prompt da Openai: https://platform.openai.com/docs/guides/prompt-engineering

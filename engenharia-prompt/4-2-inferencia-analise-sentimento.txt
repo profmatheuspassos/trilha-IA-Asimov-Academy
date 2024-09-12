@@ -1,0 +1,7 @@
+* O objetivo é interpretar o que está por trás dos textos informados.
+* Exemplo: "Qual é o sentimento da seguinte avaliação de produto, delimitada por ####?" Em seguida viria a review para análise.
+* Exemplo: "Qual é o sentimento da seguinte avaliação de produto, delimitada por ####? Forneça sua resposta em uma única palavra, seja 'positiva' ou 'negativa'." Em seguida viria a review para análise.
+* Exemplo: "Identifique uma lista de emoções que o autor da seguinde análise está expressando. Inclua não mais que cinco itens na lista. Formate sua resposta como uma lista de palavras em minúsculas separadas por vírgulas."
+* É possível utilizar os métodos indicados anteriores - "tempo para pensar" ou COT.
+* Como engenheiro de prompt, é necessário pensar no formato que a informação será extraída para que possa ser útil - por exemplo, pedir para salvar em formato JSON.
+* Exemplo: "Determine cinco tópicos que estão sendo discutidos no texto a seguir, que é delimitado por ####. Faça cada item ter uma ou duas palavras. Formate a resposta como uma lista de itens separados por vírgulas.#

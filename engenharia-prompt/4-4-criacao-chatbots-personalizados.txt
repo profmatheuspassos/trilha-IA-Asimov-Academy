@@ -1,0 +1,1 @@
+* Todo chatbot terá mais ou menos a mesma estrutura: informações básicas sobre os produtos de uma loja (por exemplo), para gerar o contexto; a forma de escape (ou seja, o que o chatbot tem de fazer caso não exista informações dentre os produtos indicados); e a pergunta específica.

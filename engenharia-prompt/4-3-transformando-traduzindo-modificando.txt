@@ -1,0 +1,5 @@
+* Até modelos mais simples conseguem realizar estas funcionalidades muito bem.
+* Exemplo: "Traduza o seguinte texto do inglês para o português como falado por uma criança de 5 anos de idade." Depois viria o texto.
++ É possível pedir para o modelo modificar o tom do texto - de formal para informal, por exemplo.
+* A modificação de formatos também é algo que os modelos fazem muito bem - de JSON para uma tabela HTML, por exemplo.
+* Outra tarefa são correções ortográficas, que os modelos também são muito bons.
